@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fruites">
+        <item>pomes</item>
+        <item>peres</item>
+        <item>platans</item>
+        <item>piña</item>
+        <item>fruta del dragón</item>
+    </string-array>
+
+    <string-array name="cursos">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>

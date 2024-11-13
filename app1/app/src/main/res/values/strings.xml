@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="nom_app" translatable="false">Android XD</string>
+    <string name="text_checkbox">Android</string>
+    <string name="pagament1">Paypal</string>
+    <string name="pagament2">Bizum</string>
+    <string name="pagament3">Credit Card</string>
+
+    <string name="ajustos">Ajustes</string>
+    <string name="cercar">Buscar</string>
+    <string name="about">Acerca De</string>
+
+    <string name="url">url</string>
+    <string name="hello_world">hello_world</string>
+</resources>

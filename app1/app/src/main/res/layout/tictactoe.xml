@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:rowCount="3"
+    android:columnCount="3">
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/imagestictactoe"
+        android:contentDescription="" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/imagestictactoe"
+        android:contentDescription="" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/imagestictactoe"
+        android:contentDescription="" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/imagestictactoe"
+        android:contentDescription="" />
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/imagestictactoe"
+        android:contentDescription="" />
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/imagestictactoe"
+        android:contentDescription="" />
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/imagestictactoe"
+        android:contentDescription="" />
+
+    <ImageButton
+        android:id="@+id/imageButton8"
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/imagestictactoe"
+        android:contentDescription="" />
+
+    <ImageButton
+        android:id="@+id/imageButton9"
+        android:layout_height="140dp"
+        android:layout_width="140dp"
+        android:src="@drawable/imagestictactoe"
+        android:contentDescription="" />
+
+</GridLayout>
